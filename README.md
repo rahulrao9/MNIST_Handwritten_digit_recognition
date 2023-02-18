@@ -13,4 +13,4 @@
 
 ***It is a widely used and deeply understood dataset and, for the most part, is “solved.” Top-performing models are deep learning convolutional neural networks that achieve a classification accuracy of above 99%, with an error rate between 0.4 %and 0.2% on the hold out test dataset.***
 
->
+For details click [here](https://www.analyticsvidhya.com/blog/2021/07/classification-of-handwritten-digits-using-cnn/)
